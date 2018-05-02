@@ -5,11 +5,11 @@ def readme():
         return f.read()
 
 setup(name='betterdialogs',
-    version='0.1.0',
+    version='1.0.0',
     description='Simple boilerplate library for tkinter GUIs (Python 3 ONLY)',
     long_description=readme(),
     classifiers=[
-        'Development Status :: 4 - Beta',
+        'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Programming Language :: Python :: 3 :: Only',
