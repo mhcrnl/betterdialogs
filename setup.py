@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='betterdialogs',
-    version='1.0.0',
+    version='1.0.1',
     description='Simple boilerplate library for tkinter GUIs (Python 3 ONLY)',
     long_description=readme(),
     classifiers=[
