@@ -100,7 +100,7 @@ class BetterDialog(tk.Toplevel):
         invalid data.
         """
 
-        return 1
+        return True
 
     def execute(self):
         """Process dialog input.
